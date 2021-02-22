@@ -12,25 +12,19 @@ library(slam)
 library(skimr)
 library(dplyr)
 library(tidyr)
+library(readr)
 library(tibble)
 library(stringr)
 library(magrittr)
 library(data.table)
 
 library(ggplot2)
-# library(webshot)
 library(wordcloud)
-# library(wordcloud2)
-# library(RColorBrewer)
 
 library(tm)
 library(stm)
 library(topicmodels)
 
-library(readr)
-# library(foreach)
-# library(iterators)
-# library(doParallel)
 
 # DATA IMPORT ------ 
 # read JSON stream file from reddit 
