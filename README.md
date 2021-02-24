@@ -1,4 +1,4 @@
-# Introduction into Programming Projects in R & KNIME   
+# Your Easy Start into Programming Projects in R & KNIME   
 
 Dear NIMSies,
 here you'll find all the necessary information from the past skill-sharing workshop:
